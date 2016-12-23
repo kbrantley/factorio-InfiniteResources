@@ -4,7 +4,7 @@
 	"factorio_version": "0.14.21",
 	"title": "InfiniteResources",
 	"author": "274Below",
-	"homepage": "asdf",
-	"description": "Refills all resource patches as they deplete."
+	"homepage": "https://github.com/kbrantley/factorio-InfiniteResources",
+	"description": "Refills all resource patches as they deplete.",
 	"dependencies": ["base >= 0.14.0"]
 }
