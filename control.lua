@@ -1,5 +1,5 @@
 script.on_event(defines.events.on_resource_depleted, function(r)
-	resource.entity.amount = 100000
+	r.entity.amount = 100000
 end)
 
 script.on_event(defines.events.on_chunk_generated, function(c)
